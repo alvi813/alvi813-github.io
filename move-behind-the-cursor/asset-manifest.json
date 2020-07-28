@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/move-behind-the-cursor/static/css/main.983a2e11.chunk.css",
+    "main.js": "/move-behind-the-cursor/static/js/main.3a62fe97.chunk.js",
+    "main.js.map": "/move-behind-the-cursor/static/js/main.3a62fe97.chunk.js.map",
+    "runtime-main.js": "/move-behind-the-cursor/static/js/runtime-main.f67884d7.js",
+    "runtime-main.js.map": "/move-behind-the-cursor/static/js/runtime-main.f67884d7.js.map",
+    "static/js/2.eda2e978.chunk.js": "/move-behind-the-cursor/static/js/2.eda2e978.chunk.js",
+    "static/js/2.eda2e978.chunk.js.map": "/move-behind-the-cursor/static/js/2.eda2e978.chunk.js.map",
+    "index.html": "/move-behind-the-cursor/index.html",
+    "precache-manifest.11dfb1837c6722808cd5136885050fa5.js": "/move-behind-the-cursor/precache-manifest.11dfb1837c6722808cd5136885050fa5.js",
+    "service-worker.js": "/move-behind-the-cursor/service-worker.js",
+    "static/css/main.983a2e11.chunk.css.map": "/move-behind-the-cursor/static/css/main.983a2e11.chunk.css.map",
+    "static/js/2.eda2e978.chunk.js.LICENSE.txt": "/move-behind-the-cursor/static/js/2.eda2e978.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f67884d7.js",
+    "static/js/2.eda2e978.chunk.js",
+    "static/css/main.983a2e11.chunk.css",
+    "static/js/main.3a62fe97.chunk.js"
+  ]
+}
